@@ -1,0 +1,4 @@
+#baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Welcome to News 101"
+baseurl = "https://nmhegde.github.io/news101/"
